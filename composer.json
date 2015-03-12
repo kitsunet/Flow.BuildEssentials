@@ -4,7 +4,7 @@
     "description": "TYPO3 Flow Build Toolchain Essentials",
     "license": ["LGPL-3.0+"],
     "require": {
-        "composer/installers": "~1.0.2"
+      "flowpack/composer-plugin": "dev-master"
     },
     "extra": {
         "installer-name": "BuildEssentials"
